@@ -49,7 +49,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luliCloud&show_icons=true&theme=radical" alt="Lu Li's GitHub stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luliCloud&layout=compact&theme=radical" alt="Top Langs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luliCloud&hide=jupyter%20notebook&layout=compact&theme=radical" alt="Top Langs" height="180px"/>
   <img src="https://streak-stats.demolab.com/?user=luliCloud&theme=radical" alt="GitHub Streak" height="180px"/>
 </div>
 
