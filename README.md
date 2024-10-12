@@ -7,7 +7,6 @@
 ## 🔧 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-这将生成一个带有 Linux 图标的徽章，背景是 Linux 官方的黄色。你可以将它与其他技术栈徽章一起
 ![Operating System](https://img.shields.io/badge/Operating_System-lightgrey?style=flat&logo=linux&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-blue?style=flat&logo=ethernet&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-003B57?style=flat&logo=postgresql&logoColor=white)
