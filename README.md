@@ -47,7 +47,19 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luliCloud&theme=radical)](https://git.io/streak-stats)
+
 ## 📊 GitHub Stats
 
 ![Lu Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=luliCloud&show_icons=true&theme=radical)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luliCloud&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=luliCloud&theme=onedark)
 
