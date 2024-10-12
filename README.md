@@ -4,6 +4,11 @@
 - 📄 I recently graduated from University of California, Berkeley (Master of Engineering)
 - 🔭 I am a software engineer with a passion for distributed systems, infrastructure, and cloud computing. I love working with C++, Kubernetes, and databases to build scalable systems and solve complex problems.
 
+## 📫 How to Reach Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:greenpearll0804@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu-li-a40034251/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/luliCloud)
+
 ## 🔧 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -42,8 +47,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-## 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:greenpearll0804@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu-li-a40034251/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/luliCloud)
+## 📊 GitHub Stats
+
+![Lu Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=luliCloud&show_icons=true&theme=radical)
 
