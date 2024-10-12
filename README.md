@@ -43,6 +43,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 ## 📫 How to Reach Me
-- Email: [greenpearll0804@gmail.com](mailto:greenpearll0804@gmail.com)
-- LinkedIn: [Lu Li](https://www.linkedin.com/in/lu-li-a40034251/)
-- GitHub: [luliCloud](https://github.com/luliCloud)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:greenpearll0804@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu-li-a40034251/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/luliCloud)
+
