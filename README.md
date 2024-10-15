@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/luliCloud)
 
 ## 🔧 Tech Stack
-![C++ 17/20](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++17/20](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Gtest](https://img.shields.io/badge/GTest-lightgrey?style=flat&logo=google&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-FFD43B?style=flat&logo=gnu&logoColor=black)
