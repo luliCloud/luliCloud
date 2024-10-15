@@ -36,6 +36,8 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![GPU Programming](https://img.shields.io/badge/GPU%20Programming-green?style=flat&logo=nvidia&logoColor=white)
+![Parallel Programming](https://img.shields.io/badge/Parallel%20Programming-purple?style=flat&logo=openmp&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![Dask](https://img.shields.io/badge/Dask-12a77b?style=flat&logo=dask&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
