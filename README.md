@@ -20,6 +20,9 @@
 ![Cache](https://img.shields.io/badge/Cache-00C58E?style=flat&logo=caching&logoColor=white)
 ![Perf](https://img.shields.io/badge/Perf-red?style=flat&logo=linux&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-lightgrey?style=flat&logo=valgrind&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=flat&logo=prometheus&logoColor=white)
+![TCMalloc](https://img.shields.io/badge/TCMalloc-blue?style=flat&logo=google&logoColor=white)
+![ASan](https://img.shields.io/badge/AddressSanitizer-red?style=flat&logo=google&logoColor=white)
 
 ![Distributed System](https://img.shields.io/badge/Distributed_System-FF6F00?style=flat&logo=distributed-systems&logoColor=white)
 ![Raft Consensus](https://img.shields.io/badge/Raft_Consensus-blue?style=flat&logo=protocols&logoColor=white)
