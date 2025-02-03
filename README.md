@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🧑‍🎓 I am pursuing a master's degree in Software Engineering at San Jose State University
-- 📄 I recently graduated from University of California, Berkeley (Master of Engineering)
-- 🔭 I am a software engineer with a passion for distributed systems, infrastructure, and cloud computing. I love working with C++, Kubernetes, and databases to build scalable systems and solve complex problems.
+- 🧑‍🎓 I am currently pursuing a Master’s degree in Software Engineering at San Jose State University.  
+- 📄 I recently earned a Master of Engineering degree from the University of California, Berkeley.  
+- 🔭 I am a software engineer passionate about **distributed systems, infrastructure, and cloud computing**. I enjoy working with **C++, Kubernetes, and databases** to develop scalable solutions and tackle complex challenges.  
+- 🏛️ Previously, I was a **research faculty member at the University of Southern California**, where I led **multiple interdisciplinary teams**. Leveraging **cloud technology, sequence analysis, and statistical models**, I contributed to establishing the **first iPSC-derived T-producing model** and influenced the **clinical and product development** of over **40 teams**.  
 
 ## 📫 How to Reach Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:greenpearll0804@gmail.com)
