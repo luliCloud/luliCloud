@@ -8,6 +8,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:greenpearll0804@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu-li-a40034251/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/luliCloud)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=wNCkTUMAAAAJ&hl=zh-CN)  
+
 
 ## 🔧 Tech Stack
 ![C++17](https://img.shields.io/badge/C++17-blue?style=flat&logo=c%2B%2B&logoColor=white)
